@@ -21,7 +21,6 @@ console.log(request.body)
   }
 
 
-
 module.exports = {
     getAllMovies,
     getByString,
